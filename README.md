@@ -63,5 +63,8 @@ All game and editor commands are shown in the Commands menu.
 ![Screenshot (195)](https://github.com/user-attachments/assets/d111f502-b5ba-4611-b524-773a9ee2864f)
 
 
+### Note:
+After starting the game (RollingBall.jar) for the first time, folders data and config will be created for storing game data. 
+
 
 
