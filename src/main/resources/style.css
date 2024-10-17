@@ -1,0 +1,138 @@
+.check-box .box {
+
+    -fx-background-color: #d6ac72;
+    -fx-border-color: #483c32;
+    -fx-border-width: 4px;
+
+}
+
+.check-box:focused .box {
+    -fx-border-color: darkred;
+    -fx-border-width: 4px;
+}
+
+.check-box:hover .box {
+    -fx-border-color: darkred;
+    -fx-border-width: 4px;
+}
+
+.check-box:selected .mark {
+
+    -fx-background-color: #483c32;
+
+}
+
+.slider .track {
+    -fx-background-color: #d6ac72; /* Track color */
+}
+
+.slider .thumb {
+    -fx-background-color: #d6ac72; /* Thumb color */
+    -fx-border-color: #483c32;
+    -fx-border-width: 4px;
+    -fx-background-radius: 0px; /* Make it square */
+    -fx-padding: 10px; /* Adjust padding for size */
+    -fx-min-width: 20px; /* Set the width */
+    -fx-min-height: 20px; /* Set the height */
+}
+
+.slider:focused .thumb {
+    -fx-background-color: #d6ac72; /* Thumb color */
+    -fx-border-color: darkred;
+    -fx-border-width: 4px;
+}
+
+.slider:hover .thumb {
+    -fx-background-color: #d6ac72; /* Thumb color */
+    -fx-border-color: darkred;
+    -fx-border-width: 4px;
+}
+
+.combo-box .slider {
+    -fx-background-color: #d6ac72;
+}
+
+.combo-box *.scroll-bar {
+    -fx-background-color: #d6ac72; /* ScrollBar background color */
+    -fx-pref-width: 10px; /* ScrollBar width */
+}
+.combo-box *.scroll-bar:vertical .thumb{
+    -fx-background-color: #483c32; /* ScrollBar background color */
+    -fx-pref-width: 10px; /* ScrollBar width */
+}
+.combo-box *.scroll-bar:vertical .increment-arrow,
+.combo-box *.scroll-bar:vertical .decrement-arrow{
+    -fx-background-color: #483c32;
+}
+.combo-box *.scroll-bar:vertical .increment-button:hover,
+.combo-box *.scroll-bar:vertical .decrement-button:hover{
+    -fx-background-color: darkred;
+}
+
+.table-view .column-header {
+    -fx-background-image: url("./PaneBackground.png");
+    -fx-font-size: 20;
+    -fx-font-family: 'Signboard';
+    -fx-src: url('Signboard.ttf');
+    -fx-border-color: #483c32;
+    -fx-border-width: 2;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: #d6ac72;
+}
+
+.table-view *.scroll-bar *.increment-button,
+.table-view *.scroll-bar *.decrement-button {
+    -fx-background-color: null;
+    -fx-background-radius: 0;
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+}
+
+.table-view *.scroll-bar *.increment-arrow,
+.table-view *.scroll-bar *.decrement-arrow {
+    -fx-background-color: null;
+    -fx-background-radius: 0;
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+    -fx-shape: null;
+}
+
+.table-cell {
+    -fx-background-image: url("./Plank.png");
+    -fx-border-color: #483c32;
+    -fx-border-width: 2;
+    -fx-text-fill: #483c32;
+    -fx-font-size: 20px;
+    -fx-alignment: center;
+    -fx-font-family: 'Signboard';
+    -fx-src: url('Signboard.ttf');
+}
+
+.scroll-pane > .viewport {
+    -fx-background-color: #483c32;
+}
+.scroll-pane .slider {
+    -fx-background-color: #d6ac72;
+}
+
+.scroll-pane *.scroll-bar {
+    -fx-background-color: #d6ac72; /* ScrollBar background color */
+    -fx-pref-width: 10px; /* ScrollBar width */
+}
+.scroll-pane *.scroll-bar:vertical .thumb{
+    -fx-background-color: #483c32; /* ScrollBar background color */
+    -fx-pref-width: 10px; /* ScrollBar width */
+}
+.scroll-pane *.scroll-bar:vertical .increment-arrow,
+.scroll-pane *.scroll-bar:vertical .decrement-arrow{
+    -fx-background-color: #483c32;
+}
+.scroll-pane *.scroll-bar:vertical .increment-button:hover,
+.scroll-pane *.scroll-bar:vertical .decrement-button:hover{
+    -fx-background-color: darkred;
+}
+
+
+

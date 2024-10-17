@@ -1,0 +1,1157 @@
+[
+  {
+    "name": "GUEST",
+    "currentTerrain": {
+      "name": "STANDARD",
+      "playerName": "IGOR",
+      "points": 0,
+      "remainingTime": 58.388779699999986,
+      "remainingFreezeTime": 0.0,
+      "remainingLifePoints": 0,
+      "leaderboard": {
+        "entries": [
+          {
+            "player": "IGOR",
+            "score": 0
+          },
+          {
+            "player": "GUEST",
+            "score": 0
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "cnt": 2
+      },
+      "date": {
+        "day": 10,
+        "month": 9,
+        "year": 2023
+      },
+      "levels": [
+        {
+          "light": {
+            "position": "nesto"
+          },
+          "podium": {
+            "width": 2000.0,
+            "height": 10.0,
+            "depth": 2000.0
+          },
+          "arena": {
+            "rotateX": 0.0,
+            "rotateZ": 0.0
+          },
+          "lamp": {
+            "width": 100.0,
+            "height": 100.0,
+            "depth": 100.0,
+            "positionX": 0.0,
+            "positionY": -1200.0,
+            "positionZ": 0.0
+          },
+          "ball": [
+            {
+              "radius": 0,
+              "positionX": 0,
+              "positionY": 0,
+              "positionZ": 0,
+              "speedX": 0,
+              "speedY": 0,
+              "speedZ": 0,
+              "index": 0
+            },
+            {
+              "radius": 0,
+              "positionX": 0,
+              "positionY": 0,
+              "positionZ": 0,
+              "speedX": 0,
+              "speedY": 0,
+              "speedZ": 0,
+              "index": 0
+            },
+            {
+              "radius": 0,
+              "positionX": 0,
+              "positionY": 0,
+              "positionZ": 0,
+              "speedX": 0,
+              "speedY": 0,
+              "speedZ": 0,
+              "index": 0
+            }
+          ],
+          "hole": [
+            {
+              "radius": 100.0,
+              "height": 10.0,
+              "positionX": 800.0,
+              "positionY": -30.0,
+              "positionZ": -800.0,
+              "index": 0
+            },
+            {
+              "radius": 0,
+              "height": 0,
+              "positionX": 0,
+              "positionY": 0,
+              "positionZ": 0,
+              "index": 0
+            },
+            {
+              "radius": 0,
+              "height": 0,
+              "positionX": 0,
+              "positionY": 0,
+              "positionZ": 0,
+              "index": 0
+            }
+          ],
+          "walls": [
+            {
+              "width": 1000.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": 0.0,
+              "positionY": -50.0,
+              "positionZ": 970.0
+            },
+            {
+              "width": 1000.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": 0.0,
+              "positionY": -50.0,
+              "positionZ": -970.0
+            },
+            {
+              "width": 30.0,
+              "height": 100.0,
+              "depth": 1000.0,
+              "positionX": 970.0,
+              "positionY": -50.0,
+              "positionZ": 0.0
+            },
+            {
+              "width": 30.0,
+              "height": 100.0,
+              "depth": 1000.0,
+              "positionX": -970.0,
+              "positionY": -50.0,
+              "positionZ": 0.0
+            }
+          ],
+          "roundWalls": [
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": 500.0,
+              "positionY": -100.0,
+              "positionZ": 500.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": 500.0,
+              "positionY": -100.0,
+              "positionZ": -500.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": -500.0,
+              "positionY": -100.0,
+              "positionZ": 500.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": -500.0,
+              "positionY": -100.0,
+              "positionZ": -500.0
+            }
+          ],
+          "bounceWalls": [
+            {
+              "width": 150.0,
+              "height": 100.0,
+              "depth": 150.0,
+              "positionX": 0.0,
+              "positionY": -50.0,
+              "positionZ": 0.0
+            }
+          ],
+          "badHoles": [],
+          "coins": [
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 500.0,
+              "positionY": -55.0,
+              "positionZ": 0.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": -500.0,
+              "positionY": -55.0,
+              "positionZ": 0.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 0.0,
+              "positionY": -55.0,
+              "positionZ": 500.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 0.0,
+              "positionY": -55.0,
+              "positionZ": -500.0
+            }
+          ],
+          "spikyBalls": [],
+          "stopwatches": [],
+          "bonusBalls": [],
+          "iceTokens": [],
+          "ballStartPosition": [
+            {
+              "x": -900.0,
+              "y": -55.0,
+              "z": 900.0
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ]
+        },
+        {
+          "light": {
+            "position": "nesto"
+          },
+          "podium": {
+            "width": 2000.0,
+            "height": 10.0,
+            "depth": 2000.0
+          },
+          "arena": {
+            "rotateX": 0.0,
+            "rotateZ": 0.0
+          },
+          "lamp": {
+            "width": 100.0,
+            "height": 100.0,
+            "depth": 100.0,
+            "positionX": 0.0,
+            "positionY": -1200.0,
+            "positionZ": 0.0
+          },
+          "ball": [
+            {
+              "radius": 50.0,
+              "positionX": -300.0,
+              "positionY": -55.0,
+              "positionZ": 700.0,
+              "speedX": 0.0,
+              "speedY": 0.0,
+              "speedZ": 0.0,
+              "index": 0
+            },
+            {
+              "radius": 50.0,
+              "positionX": 300.0,
+              "positionY": -55.0,
+              "positionZ": 700.0,
+              "speedX": 0.0,
+              "speedY": 0.0,
+              "speedZ": 0.0,
+              "index": 1
+            },
+            {
+              "radius": 0,
+              "positionX": 0,
+              "positionY": 0,
+              "positionZ": 0,
+              "speedX": 0,
+              "speedY": 0,
+              "speedZ": 0,
+              "index": 0
+            }
+          ],
+          "hole": [
+            {
+              "radius": 100.0,
+              "height": 30.0,
+              "positionX": 0.0,
+              "positionY": -30.0,
+              "positionZ": -300.0,
+              "index": 0
+            },
+            {
+              "radius": 100.0,
+              "height": 30.0,
+              "positionX": 0.0,
+              "positionY": -30.0,
+              "positionZ": -550.0,
+              "index": 1
+            },
+            {
+              "radius": 0,
+              "height": 0,
+              "positionX": 0,
+              "positionY": 0,
+              "positionZ": 0,
+              "index": 0
+            }
+          ],
+          "walls": [
+            {
+              "width": 2000.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": 0.0,
+              "positionY": -50.0,
+              "positionZ": 1000.0
+            },
+            {
+              "width": 30.0,
+              "height": 100.0,
+              "depth": 500.0,
+              "positionX": 1000.0,
+              "positionY": -50.0,
+              "positionZ": 0.0
+            },
+            {
+              "width": 800.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": -600.0,
+              "positionY": -50.0,
+              "positionZ": -1000.0
+            },
+            {
+              "width": 800.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": 600.0,
+              "positionY": -50.0,
+              "positionZ": -1000.0
+            },
+            {
+              "width": 30.0,
+              "height": 100.0,
+              "depth": 500.0,
+              "positionX": -1000.0,
+              "positionY": -50.0,
+              "positionZ": 0.0
+            },
+            {
+              "width": 30.0,
+              "height": 100.0,
+              "depth": 500.0,
+              "positionX": 0.0,
+              "positionY": -50.0,
+              "positionZ": 800.0
+            }
+          ],
+          "roundWalls": [
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": -450.0,
+              "positionY": -100.0,
+              "positionZ": -50.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": 450.0,
+              "positionY": -100.0,
+              "positionZ": -50.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": 0.0,
+              "positionY": -100.0,
+              "positionZ": 500.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": -800.0,
+              "positionY": -100.0,
+              "positionZ": 800.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": 800.0,
+              "positionY": -100.0,
+              "positionZ": 800.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": 0.0,
+              "positionY": -100.0,
+              "positionZ": -900.0
+            }
+          ],
+          "bounceWalls": [
+            {
+              "width": 150.0,
+              "height": 100.0,
+              "depth": 150.0,
+              "positionX": -350.0,
+              "positionY": -100.0,
+              "positionZ": -50.0
+            },
+            {
+              "width": 150.0,
+              "height": 100.0,
+              "depth": 150.0,
+              "positionX": 350.0,
+              "positionY": -100.0,
+              "positionZ": -50.0
+            }
+          ],
+          "badHoles": [
+            {
+              "radius": 100.0,
+              "height": 10.0,
+              "positionX": 800.0,
+              "positionY": -30.0,
+              "positionZ": -800.0,
+              "color": 0
+            },
+            {
+              "radius": 100.0,
+              "height": 10.0,
+              "positionX": -800.0,
+              "positionY": -30.0,
+              "positionZ": -800.0,
+              "color": 0
+            },
+            {
+              "radius": 120.0,
+              "height": 10.0,
+              "positionX": -220.0,
+              "positionY": -30.0,
+              "positionZ": 250.0,
+              "color": 0
+            },
+            {
+              "radius": 100.0,
+              "height": 10.0,
+              "positionX": 250.0,
+              "positionY": -30.0,
+              "positionZ": -250.0,
+              "color": 0
+            },
+            {
+              "radius": 100.0,
+              "height": 10.0,
+              "positionX": 250.0,
+              "positionY": -30.0,
+              "positionZ": 500.0,
+              "color": 0
+            }
+          ],
+          "coins": [
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": -800.0,
+              "positionY": -55.0,
+              "positionZ": 0.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 800.0,
+              "positionY": -55.0,
+              "positionZ": 0.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": -700.0,
+              "positionY": -55.0,
+              "positionZ": -500.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 700.0,
+              "positionY": -55.0,
+              "positionZ": -500.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": -300.0,
+              "positionY": -55.0,
+              "positionZ": -700.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 300.0,
+              "positionY": -55.0,
+              "positionZ": -700.0
+            }
+          ],
+          "spikyBalls": [],
+          "stopwatches": [
+            {
+              "positionX": -600.0,
+              "positionY": -55.0,
+              "positionZ": 250.0
+            },
+            {
+              "positionX": 600.0,
+              "positionY": -55.0,
+              "positionZ": 250.0
+            }
+          ],
+          "bonusBalls": [
+            {
+              "positionX": 0.0,
+              "positionY": -43.33,
+              "positionZ": 0.0
+            }
+          ],
+          "iceTokens": [],
+          "ballStartPosition": [
+            {
+              "x": -300.0,
+              "y": -55.0,
+              "z": 700.0
+            },
+            {
+              "x": 300.0,
+              "y": -55.0,
+              "z": 700.0
+            },
+            {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ]
+        },
+        {
+          "light": {
+            "position": "nesto"
+          },
+          "podium": {
+            "width": 3000.0,
+            "height": 10.0,
+            "depth": 2000.0
+          },
+          "arena": {
+            "rotateX": 0.0,
+            "rotateZ": 0.0
+          },
+          "lamp": {
+            "width": 100.0,
+            "height": 100.0,
+            "depth": 100.0,
+            "positionX": 0.0,
+            "positionY": -1200.0,
+            "positionZ": 0.0
+          },
+          "ball": [
+            {
+              "radius": 50.0,
+              "positionX": -1000.0,
+              "positionY": -55.0,
+              "positionZ": -800.0,
+              "speedX": 0.0,
+              "speedY": 0.0,
+              "speedZ": 0.0,
+              "index": 0
+            },
+            {
+              "radius": 50.0,
+              "positionX": 1200.0,
+              "positionY": -55.0,
+              "positionZ": -500.0,
+              "speedX": 0.0,
+              "speedY": 0.0,
+              "speedZ": 0.0,
+              "index": 1
+            },
+            {
+              "radius": 50.0,
+              "positionX": -950.0,
+              "positionY": -55.0,
+              "positionZ": 800.0,
+              "speedX": 0.0,
+              "speedY": 0.0,
+              "speedZ": 0.0,
+              "index": 2
+            }
+          ],
+          "hole": [
+            {
+              "radius": 100.0,
+              "height": 30.0,
+              "positionX": 1200.0,
+              "positionY": -30.0,
+              "positionZ": -800.0,
+              "index": 0
+            },
+            {
+              "radius": 100.0,
+              "height": 30.0,
+              "positionX": -1200.0,
+              "positionY": -30.0,
+              "positionZ": -500.0,
+              "index": 1
+            },
+            {
+              "radius": 100.0,
+              "height": 30.0,
+              "positionX": 1200.0,
+              "positionY": -30.0,
+              "positionZ": 600.0,
+              "index": 2
+            }
+          ],
+          "walls": [
+            {
+              "width": 30.0,
+              "height": 100.0,
+              "depth": 2000.0,
+              "positionX": -1500.0,
+              "positionY": -50.0,
+              "positionZ": 0.0
+            },
+            {
+              "width": 600.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": -1200.0,
+              "positionY": -50.0,
+              "positionZ": -1000.0
+            },
+            {
+              "width": 1000.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": 30.0,
+              "positionY": -50.0,
+              "positionZ": -1000.0
+            },
+            {
+              "width": 3000.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": 0.0,
+              "positionY": -50.0,
+              "positionZ": 1000.0
+            },
+            {
+              "width": 600.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": 1200.0,
+              "positionY": -50.0,
+              "positionZ": -1000.0
+            },
+            {
+              "width": 30.0,
+              "height": 100.0,
+              "depth": 2000.0,
+              "positionX": 1500.0,
+              "positionY": -50.0,
+              "positionZ": 0.0
+            },
+            {
+              "width": 600.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": -400.0,
+              "positionY": -50.0,
+              "positionZ": 0.0
+            },
+            {
+              "width": 30.0,
+              "height": 100.0,
+              "depth": 300.0,
+              "positionX": -500.0,
+              "positionY": -50.0,
+              "positionZ": 850.0
+            },
+            {
+              "width": 800.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": 1100.0,
+              "positionY": -50.0,
+              "positionZ": 0.0
+            },
+            {
+              "width": 600.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": 1200.0,
+              "positionY": -50.0,
+              "positionZ": -600.0
+            },
+            {
+              "width": 600.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": -800.0,
+              "positionY": -50.0,
+              "positionZ": 650.0
+            },
+            {
+              "width": 600.0,
+              "height": 100.0,
+              "depth": 30.0,
+              "positionX": 250.0,
+              "positionY": -50.0,
+              "positionZ": 650.0
+            }
+          ],
+          "roundWalls": [
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": -150.0,
+              "positionY": -100.0,
+              "positionZ": -650.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": -500.0,
+              "positionY": -100.0,
+              "positionZ": 650.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": -650.0,
+              "positionY": -100.0,
+              "positionZ": -650.0
+            },
+            {
+              "radius": 50.0,
+              "height": 200.0,
+              "positionX": 250.0,
+              "positionY": -100.0,
+              "positionZ": 0.0
+            }
+          ],
+          "bounceWalls": [
+            {
+              "width": 150.0,
+              "height": 100.0,
+              "depth": 150.0,
+              "positionX": -650.0,
+              "positionY": -100.0,
+              "positionZ": -250.0
+            },
+            {
+              "width": 150.0,
+              "height": 100.0,
+              "depth": 150.0,
+              "positionX": -150.0,
+              "positionY": -100.0,
+              "positionZ": -250.0
+            },
+            {
+              "width": 150.0,
+              "height": 100.0,
+              "depth": 150.0,
+              "positionX": 650.0,
+              "positionY": -100.0,
+              "positionZ": -250.0
+            }
+          ],
+          "badHoles": [],
+          "coins": [
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": -1200.0,
+              "positionY": -55.0,
+              "positionZ": 400.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": -200.0,
+              "positionY": -55.0,
+              "positionZ": 400.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": -450.0,
+              "positionY": -55.0,
+              "positionZ": -450.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 800.0,
+              "positionY": -55.0,
+              "positionZ": -800.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 800.0,
+              "positionY": -55.0,
+              "positionZ": -450.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 300.0,
+              "positionY": -55.0,
+              "positionZ": 800.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 300.0,
+              "positionY": -55.0,
+              "positionZ": 300.0
+            },
+            {
+              "radius": 50.0,
+              "height": 5.0,
+              "positionX": 800.0,
+              "positionY": -55.0,
+              "positionZ": 800.0
+            }
+          ],
+          "spikyBalls": [
+            {
+              "positionX": 450.0,
+              "positionY": -105.0,
+              "positionZ": -850.0,
+              "speedX": -0.0,
+              "speedY": 0.0,
+              "speedZ": 200.0
+            },
+            {
+              "positionX": -50.0,
+              "positionY": -105.0,
+              "positionZ": 800.0,
+              "speedX": 200.0,
+              "speedY": 0.0,
+              "speedZ": 0.0
+            },
+            {
+              "positionX": 50.0,
+              "positionY": -105.0,
+              "positionZ": -850.0,
+              "speedX": -0.0,
+              "speedY": 0.0,
+              "speedZ": 200.0
+            },
+            {
+              "positionX": -400.0,
+              "positionY": -105.0,
+              "positionZ": -850.0,
+              "speedX": -0.0,
+              "speedY": 0.0,
+              "speedZ": 200.0
+            }
+          ],
+          "stopwatches": [
+            {
+              "positionX": -1200.0,
+              "positionY": -55.0,
+              "positionZ": 100.0
+            },
+            {
+              "positionX": 750.0,
+              "positionY": -55.0,
+              "positionZ": 250.0
+            }
+          ],
+          "bonusBalls": [
+            {
+              "positionX": -1350.0,
+              "positionY": -45.0,
+              "positionZ": -800.0
+            },
+            {
+              "positionX": 1200.0,
+              "positionY": -45.0,
+              "positionZ": 250.0
+            }
+          ],
+          "iceTokens": [
+            {
+              "positionX": -500.0,
+              "positionY": -55.0,
+              "positionZ": 300.0
+            },
+            {
+              "positionX": 250.0,
+              "positionY": -55.0,
+              "positionZ": -450.0
+            }
+          ],
+          "ballStartPosition": [
+            {
+              "x": -1000.0,
+              "y": -55.0,
+              "z": -800.0
+            },
+            {
+              "x": 1200.0,
+              "y": -55.0,
+              "z": -500.0
+            },
+            {
+              "x": -950.0,
+              "y": -55.0,
+              "z": 800.0
+            }
+          ]
+        }
+      ],
+      "currentLevel": {
+        "light": {
+          "position": "nesto"
+        },
+        "podium": {
+          "width": 2000.0,
+          "height": 10.0,
+          "depth": 2000.0
+        },
+        "arena": {
+          "rotateX": 0.0,
+          "rotateZ": 0.0
+        },
+        "lamp": {
+          "width": 100.0,
+          "height": 100.0,
+          "depth": 100.0,
+          "positionX": 0.0,
+          "positionY": -1200.0,
+          "positionZ": 0.0
+        },
+        "ball": [
+          {
+            "radius": 0,
+            "positionX": 0,
+            "positionY": 0,
+            "positionZ": 0,
+            "speedX": 0,
+            "speedY": 0,
+            "speedZ": 0,
+            "index": 0
+          },
+          {
+            "radius": 0,
+            "positionX": 0,
+            "positionY": 0,
+            "positionZ": 0,
+            "speedX": 0,
+            "speedY": 0,
+            "speedZ": 0,
+            "index": 0
+          },
+          {
+            "radius": 0,
+            "positionX": 0,
+            "positionY": 0,
+            "positionZ": 0,
+            "speedX": 0,
+            "speedY": 0,
+            "speedZ": 0,
+            "index": 0
+          }
+        ],
+        "hole": [
+          {
+            "radius": 100.0,
+            "height": 10.0,
+            "positionX": 800.0,
+            "positionY": -30.0,
+            "positionZ": -800.0,
+            "index": 0
+          },
+          {
+            "radius": 0,
+            "height": 0,
+            "positionX": 0,
+            "positionY": 0,
+            "positionZ": 0,
+            "index": 0
+          },
+          {
+            "radius": 0,
+            "height": 0,
+            "positionX": 0,
+            "positionY": 0,
+            "positionZ": 0,
+            "index": 0
+          }
+        ],
+        "walls": [
+          {
+            "width": 1000.0,
+            "height": 100.0,
+            "depth": 30.0,
+            "positionX": 0.0,
+            "positionY": -50.0,
+            "positionZ": 970.0
+          },
+          {
+            "width": 1000.0,
+            "height": 100.0,
+            "depth": 30.0,
+            "positionX": 0.0,
+            "positionY": -50.0,
+            "positionZ": -970.0
+          },
+          {
+            "width": 30.0,
+            "height": 100.0,
+            "depth": 1000.0,
+            "positionX": 970.0,
+            "positionY": -50.0,
+            "positionZ": 0.0
+          },
+          {
+            "width": 30.0,
+            "height": 100.0,
+            "depth": 1000.0,
+            "positionX": -970.0,
+            "positionY": -50.0,
+            "positionZ": 0.0
+          }
+        ],
+        "roundWalls": [
+          {
+            "radius": 50.0,
+            "height": 200.0,
+            "positionX": 500.0,
+            "positionY": -100.0,
+            "positionZ": 500.0
+          },
+          {
+            "radius": 50.0,
+            "height": 200.0,
+            "positionX": 500.0,
+            "positionY": -100.0,
+            "positionZ": -500.0
+          },
+          {
+            "radius": 50.0,
+            "height": 200.0,
+            "positionX": -500.0,
+            "positionY": -100.0,
+            "positionZ": 500.0
+          },
+          {
+            "radius": 50.0,
+            "height": 200.0,
+            "positionX": -500.0,
+            "positionY": -100.0,
+            "positionZ": -500.0
+          }
+        ],
+        "bounceWalls": [
+          {
+            "width": 150.0,
+            "height": 100.0,
+            "depth": 150.0,
+            "positionX": 0.0,
+            "positionY": -50.0,
+            "positionZ": 0.0
+          }
+        ],
+        "badHoles": [],
+        "coins": [
+          {
+            "radius": 50.0,
+            "height": 5.0,
+            "positionX": 500.0,
+            "positionY": -55.0,
+            "positionZ": 0.0
+          },
+          {
+            "radius": 50.0,
+            "height": 5.0,
+            "positionX": -500.0,
+            "positionY": -55.0,
+            "positionZ": 0.0
+          },
+          {
+            "radius": 50.0,
+            "height": 5.0,
+            "positionX": 0.0,
+            "positionY": -55.0,
+            "positionZ": 500.0
+          },
+          {
+            "radius": 50.0,
+            "height": 5.0,
+            "positionX": 0.0,
+            "positionY": -55.0,
+            "positionZ": -500.0
+          }
+        ],
+        "spikyBalls": [],
+        "stopwatches": [],
+        "bonusBalls": [],
+        "iceTokens": [],
+        "ballStartPosition": [
+          {
+            "x": -900.0,
+            "y": -55.0,
+            "z": 900.0
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        ]
+      },
+      "currentLevelNUM": 0,
+      "stageFactor": 0
+    },
+    "activeGame": false,
+    "difficulty": 2,
+    "musicVolume": 50.0,
+    "soundVolume": 50.0,
+    "music_on": false,
+    "sound_on": true
+  }
+]

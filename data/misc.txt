@@ -1,0 +1,10 @@
+{
+  "currentPlayer": "GUEST",
+  "currentTerrain": "STANDARD",
+  "screen_width": 1920.0,
+  "screen_height": 1080.0,
+  "screen_positionX": -8.0,
+  "screen_positionY": -8.0,
+  "fullscreen": false,
+  "maximized": true
+}

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1280.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="503.0" layoutY="100.0" text="Change Player">
+         <font>
+            <Font size="45.0" />
+         </font>
+      </Label>
+      <ComboBox layoutX="932.0" layoutY="244.0" prefWidth="150.0" />
+      <FlowPane alignment="CENTER" columnHalignment="CENTER" layoutX="1124.0" layoutY="-3.0" prefHeight="806.0" prefWidth="150.0" vgap="50.0">
+         <children>
+            <ImageView fitHeight="64.0" fitWidth="64.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fitHeight="64.0" fitWidth="64.0" pickOnBounds="true" preserveRatio="true" />
+            <CheckBox alignment="CENTER_RIGHT" contentDisplay="RIGHT" graphicTextGap="0.0" mnemonicParsing="false" nodeOrientation="RIGHT_TO_LEFT" text="CheckBox">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </CheckBox>
+            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="150.0" text="Button" />
+            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="150.0" text="Button" />
+            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="150.0" text="Button" />
+            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="150.0" text="Button" />
+            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="150.0" text="Button" />
+         </children>
+      </FlowPane>
+      <FlowPane alignment="CENTER_LEFT" hgap="20.0" layoutX="303.0" layoutY="607.0" prefHeight="159.0" prefWidth="712.0" vgap="20.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="30.0" prefWidth="712.0" text="Picked: Wall">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="30.0" prefWidth="150.0" text="Position x">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <TextField />
+            <Label alignment="CENTER" prefHeight="30.0" prefWidth="150.0" text="Position z">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <TextField />
+            <Label alignment="CENTER" prefHeight="30.0" prefWidth="150.0" text="Width">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <TextField />
+            <Label alignment="CENTER" prefHeight="30.0" prefWidth="150.0" text="Depth">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <TextField />
+            <Label alignment="CENTER" prefHeight="30.0" prefWidth="150.0" text="Radius">
+               <font>
+                  <Font size="20.0" />
+               </font>
+            </Label>
+            <TextField />
+            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="150.0" text="Rotate" />
+         </children>
+      </FlowPane>
+      <Label layoutX="890.0" layoutY="121.0" prefHeight="90.0" prefWidth="234.0" text="dhjsakhd jkashdjkahsjkdhaskjdhakjhdash kjashkjdakjs" wrapText="true">
+         <opaqueInsets>
+            <Insets left="10.0" />
+         </opaqueInsets>
+         <padding>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </padding>
+      </Label>
+      <FlowPane layoutX="96.0" layoutY="193.0" prefHeight="388.0" prefWidth="385.0" vgap="50.0">
+         <children>
+            <Label alignment="CENTER" prefHeight="42.0" prefWidth="390.0" text="Ball Select">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="127.0" fitWidth="130.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fitHeight="127.0" fitWidth="130.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fitHeight="127.0" fitWidth="130.0" pickOnBounds="true" preserveRatio="true" />
+            <Label alignment="CENTER" prefHeight="42.0" prefWidth="390.0" text="Ball type: slow">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="42.0" prefWidth="390.0" text="Multiplier: x1.0">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+         </children>
+      </FlowPane>
+   </children>
+</AnchorPane>
