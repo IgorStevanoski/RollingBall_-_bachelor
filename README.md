@@ -10,7 +10,7 @@ Before starting a new game, player can choose on which terrain he will play and 
 
 ![Screenshot (189)](https://github.com/user-attachments/assets/30740c26-ed6d-467e-ab72-7148946944ec)
 
-The main goal of the game is to bring the ball to the right hole. There can be multiple balls and holes on some levels, all balls must be put in right ones for a player to proceed to the next level. Picking up coins and putting balls in right holes grants player points. Game consists of positive and negative elements. 
+The main goal of the game is to bring the ball to the right hole by tilting the terrain. There can be multiple balls and holes on some levels, all balls must be put in right ones for a player to proceed to the next level. Picking up coins and putting balls in right holes grants player points. Game consists of positive and negative elements. 
 
 ![Screenshot (198)](https://github.com/user-attachments/assets/2e5b8a10-6e68-430a-bc40-9f6381291479)
 
