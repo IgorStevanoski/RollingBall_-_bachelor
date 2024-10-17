@@ -1,0 +1,16 @@
+{
+  "time_limit": 60.0,
+  "freeze_time": 15.0,
+  "extra_time": 15.0,
+  "max_lifepoints": 5.0,
+  "max_ball_speed": 2000.0,
+  "spiky_ball_speed": 200.0,
+  "spiky_ball_speed_increase": 1.5,
+  "ball_damp": 0.999,
+  "arena_damp": 0.995,
+  "max_acceleration": 400.0,
+  "points_coin": 5.0,
+  "points_bad_hole": 5.0,
+  "points_hole": 10.0,
+  "bounce_factor": 2.0
+}
